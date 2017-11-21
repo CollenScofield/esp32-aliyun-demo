@@ -1,6 +1,6 @@
 [submodule "components/esp32-aliyun"]
 	path = components/esp32-aliyun
-	url = ssh://git@gitlab.espressif.cn:27227/cloud/esp32-aliyun.git
+	url = https://github.com/espressif/esp32-aliyun.git
 [submodule "esp-idf"]
 	path = esp-idf
 	url = https://github.com/espressif/esp-idf.git
